@@ -95,7 +95,7 @@ You can find a more detailed documentation here:
 ```less
 @import 'less/css3/_transition';
 
-.transtion(height 100ms linear 100ms);
+.transition(height 100ms linear 100ms);
 .transition-property(height, left, top);
 .transition-duration(100ms, 200ms, 300ms);
 .transition-timing-function(linear, ease-out, ease);
@@ -113,6 +113,7 @@ You can find a more detailed documentation here:
 ## What does this NOT do?
 
 * clean my apartment
+* eat your time
 
 ## How mixins are built
 
