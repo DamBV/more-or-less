@@ -1,3 +1,12 @@
+# DEPRECATED
+
+if you need the functions please use [homeless](https://github.com/pixelass/homeless) instead.  
+if you need vendor prefixes use 
+  * autoprefixer 
+  * or keep using this library. (not recommended)
+
+
+
 # more-or-less
 [![Build Status](https://travis-ci.org/pixelass/more-or-less.svg)](https://travis-ci.org/pixelass/more-or-less)
 [![Dependencies Status](https://david-dm.org/pixelass/more-or-less.png)](https://david-dm.org/pixelass/more-or-less)
